@@ -1,0 +1,60 @@
+#wrapper{
+	margin: 0 auto;
+	width: 900px;
+}
+
+.logo{
+	margin: 0 auto;
+	display: inline;
+	float: left;
+}
+
+nav{
+	text-align: center;
+	font-size: x-large;
+	padding-right: 0px;
+	display: inline;
+}
+
+li{
+	display: inline-block;
+	text-decoration: none;
+	padding-left: 50px;
+}
+
+ul{
+	list-style-type: none;
+	padding-top: 40px;
+	margin: 0 auto;
+	float: left;
+}
+
+#h1{
+	padding-top: 130px;
+	text-align: center;
+}
+
+.pic{
+	text-align: center;
+}
+
+#para1{
+	float: left;
+	padding-left: 10px;
+	width: 340px;
+	margin-left: 66px;
+}
+
+#para2{
+	float: left;
+	width: 340px;
+	padding-left: 72px;
+}
+
+
+
+
+
+
+
+
