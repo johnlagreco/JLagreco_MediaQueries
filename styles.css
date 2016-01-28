@@ -1,6 +1,6 @@
 #wrapper{
 	margin: 0 auto;
-	width: 1000px;
+	width: 979px;
 }
 
 .logo{
@@ -32,6 +32,7 @@ ul{
 #h1{
 	padding-top: 130px;
 	text-align: center;
+	font-size: x-large;
 }
 
 .pic{
@@ -51,8 +52,76 @@ ul{
 	padding-left: 72px;
 }
 
+@media (max-width: 767px){
+
+	#wrapper{
+	margin: 0 auto;
+	width: 767px;
+	}
+
+	.logo{
+		padding-left: 226px;
+	}
+
+	body{
+		background-color: green;
+	}
+
+	ul{
+		padding-left: 124px;
+	}
+
+	.pic{
+		display: none;
+	}
+
+	#h1{
+		padding-top: 200px;
+	    text-align: center;
+	    font-size: large;
+	}
+
+	#para1{
+		padding-left: 160px;
+		
+	}
+
+	#para2{
+		padding-left: 224px;
+		
+	}
+}
 
 
+@media (max-width: 400px){
+
+	#wrapper{
+	margin: 0 auto;
+	width: 400px;
+	}
+
+	.logo{
+		padding-left: 36px;
+	}
+
+	body{
+		background-color: yellow;
+	}
+
+	ul{
+		padding-left: 62px;
+		width: 200px;
+	}
+
+	#h1{
+		padding-top: 200px;
+	    text-align: center;
+	    font-size: large;
+	}
+
+
+
+}
 
 
 
