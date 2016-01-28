@@ -111,15 +111,24 @@ ul{
 	ul{
 		padding-left: 62px;
 		width: 200px;
+		font-size: medium;
 	}
 
 	#h1{
-		padding-top: 200px;
-	    text-align: center;
-	    font-size: large;
+		padding-top: 230px;
+	    width: 400px;
+	    font-size: small;
 	}
 
+	#para1{
+		margin: 0px;
+		padding-left: 26px;
+	}
 
+	#para2{
+		margin: 0px;
+		padding-left: 26px;
+	}
 
 }
 
