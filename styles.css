@@ -1,6 +1,6 @@
 #wrapper{
 	margin: 0 auto;
-	width: 900px;
+	width: 1000px;
 }
 
 .logo{
@@ -40,7 +40,7 @@ ul{
 
 #para1{
 	float: left;
-	padding-left: 10px;
+	padding-left: 60px;
 	width: 340px;
 	margin-left: 66px;
 }
