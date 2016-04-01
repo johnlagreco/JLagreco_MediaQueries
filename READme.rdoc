@@ -1,1 +1,3 @@
-Create a website that looks good at tablet (iPad, Galaxy, etc) and phone (iPhone, Android, etc.) width with at least 2 breakpoints that change the layout of the page.
+Media Queries are simple filters that can be applied to CSS styles. They are used to change stylings according to the screen sizes of different devices that can view a website. 
+
+In this repository, I created a dummy website using media queries with 2 breakpoints. My stylings change for a iPhone, iPad and a laptop when you manually collapse or enlarge the page.
